@@ -1,2 +1,2 @@
---Tareas--
--instalacion de git y github.
+#Tareas--
+1-instalacion de git y github.
